@@ -38,7 +38,7 @@
 <!--				</configuration>-->
 <!--			</plugin>-->
 		</plugins>
-	</build>dd
+	</build>
 	<dependencies>
 		<dependency>
 			<groupId>io.cucumber</groupId>
